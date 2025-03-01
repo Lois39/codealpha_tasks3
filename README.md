@@ -1,7 +1,7 @@
 # Calculator Web Application
 
 ## 📌 Live Demo
-🔗 [Try the Calculator](#)
+🔗 [Try the Calculator](https://lois39.github.io/codealpha_tasks3/)
 
 ## 📖 Overview
 This is a **simple yet powerful Calculator Web Application** designed for quick and efficient arithmetic operations. The project offers a sleek, user-friendly interface with essential calculator functionalities, making it an ideal tool for basic and advanced calculations.
